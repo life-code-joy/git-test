@@ -1,8 +1,10 @@
 
 body {
- background-color: blue;
+ background-color: red;
 }
 
 h1 {
+ color: #fff;
+ text-transform: uppercase;
  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
